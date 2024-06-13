@@ -1,5 +1,5 @@
 # time-series-modelling-python
-Analyzing and forecasting retail sales using time series modeling techniques.
+Analyzing and forecasting retail sales using time series modeling techniques using Kaggles store sales dataset
 
 ## Description
 This project focuses on analyzing and forecasting retail sales data using time series modeling techniques. The primary goal is to develop a model that accurately predicts sales patterns by leveraging seasonal, cyclic, and serial dependence features.
